@@ -22,6 +22,27 @@
         "args": ["${workspaceFolder}/src/index.ts"],
         "envFile": "${workspaceFolder}/.env",
         "skipFiles": ["<node_internals>/**"]
+      },
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Debug TypeScript Neo4jNodeMigrator",
+        "program": "${workspaceFolder}/src/Neo4jNodeMigrator.ts",
+        "preLaunchTask": "tsc: build - tsconfig.json",
+        "outFiles": ["${workspaceFolder}/dist/**/*.js"],
+        "sourceMaps": true,
+        "envFile": "${workspaceFolder}/.env",
+        "skipFiles": ["<node_internals>/**"]
+      },
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Debug with ts-node Neo4jNodeMigrator",
+        "program": "${workspaceFolder}/src/Neo4jNodeMigrator.ts",
+        "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/ts-node",
+        "args": ["${workspaceFolder}/src/Neo4jNodeMigrator.ts"],
+        "envFile": "${workspaceFolder}/.env",
+        "skipFiles": ["<node_internals>/**"]
       }
     ]
   }

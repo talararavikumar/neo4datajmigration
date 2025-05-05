@@ -2,11 +2,11 @@
   "name": "neo4j-shopify-books",
   "version": "1.0.0",
   "description": "Node.js TypeScript app to process Shopify products and create Books nodes in Neo4j",
-  "main": "dist/index.js",
+  "main": "dist/Neo4jNodeMigrator.js",
   "scripts": {
-    "start": "node dist/index.js",
+    "start": "node dist/Neo4jNodeMigrator.js",
     "build": "tsc",
-    "dev": "ts-node src/index.ts",
+    "dev": "ts-node src/Neo4jNodeMigrator.ts",
     "lint": "eslint 'src/**/*.{ts,tsx}'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
