@@ -1,0 +1,1472 @@
+[
+    {
+      "id": "gid://shopify/Product/9224132395319",
+      "handle": "the-food-we-grow",
+      "availableForSale": true,
+      "title": "The Food We Grow",
+      "description": "'The Food We Grow' takes you on the story of wheat and how it's grown in different parts of the world, and a glimpse into the history of those parts of the world. It also will inform and educate about the current issues we face in relation to food.",
+      "descriptionHtml": "'The Food We Grow' takes you on the story of wheat and how it's grown in different parts of the world, and a glimpse into the history of those parts of the world. It also will inform and educate about the current issues we face in relation to food.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/11678832853303",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "349.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/1_TheFoodWeGrow_Cover.jpg?v=1707901416",
+        "altText": null,
+        "width": 622,
+        "height": 911
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:46Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/1_TheFoodWeGrow_Cover.jpg?v=1707901416",
+          "altText": "The Food We Grow - 1_TheFoodWeGrow_Cover",
+          "width": 622,
+          "height": 911
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48110477967671",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "299.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9224136098103",
+      "handle": "ice-and-fire",
+      "availableForSale": true,
+      "title": "Ice and Fire",
+      "description": "'Ice and Fire' takes you on the voyage of snow, ice and glaciers and the unique world of Inuits and Nenets living in the coldest regions of the world. Then it takes a u-turn and talks about the fire present inside of the earth which shows up as volcanoes and earthquakes. It will be a voyage worth remembering.",
+      "descriptionHtml": "'Ice and Fire' takes you on the voyage of snow, ice and glaciers and the unique world of Inuits and Nenets living in the coldest regions of the world. Then it takes a u-turn and talks about the fire present inside of the earth which shows up as volcanoes and earthquakes. It will be a voyage worth remembering.<br data-mce-fragment=\"1\">",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/11678837473591",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "349.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/2_IceAndFire_Cover.jpg?v=1707901578",
+        "altText": null,
+        "width": 650,
+        "height": 926
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:46Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/2_IceAndFire_Cover.jpg?v=1707901578",
+          "altText": "Ice and Fire - 2_IceAndFire_Cover",
+          "width": 650,
+          "height": 926
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48110483865911",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "299.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9224137900343",
+      "handle": "rain-deserts",
+      "availableForSale": true,
+      "title": "Rain & Deserts",
+      "description": "'Rain & Deserts' deals with the issue of desertification we are seeing in the world today, and the related concept of rain. It talks about Rain from a new angle, and shows the power of wind. It also tells the unique stories of two very different deserts. This book will open up the reader's mind to the beauty of deserts and the interplay between green land and deserts.",
+      "descriptionHtml": "'Rain &amp; Deserts' deals with the issue of desertification we are seeing in the world today, and the related concept of rain. It talks about Rain from a new angle, and shows the power of wind. It also tells the unique stories of two very different deserts. This book will open up the reader's mind to the beauty of deserts and the interplay between green land and deserts.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/11678839570743",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "349.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/3_DesertsandRain_Cover.jpg?v=1707901672",
+        "altText": null,
+        "width": 2550,
+        "height": 3300
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:46Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/3_DesertsandRain_Cover.jpg?v=1707901672",
+          "altText": "Rain & Deserts - 3_DesertsandRain_Cover",
+          "width": 2550,
+          "height": 3300
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48110487241015",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "299.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9224140194103",
+      "handle": "story-of-forests",
+      "availableForSale": true,
+      "title": "Story of Forests",
+      "description": "'Story of Forests' is a vital lesson on the importance of forests in our life, retold through the stories of 'Arro', a colorful parrot of the Amazon , the spirit of the Temperate Forests, and 'Teera', the tiger from Sunderbans. It ends with a special story of the city forests. This book is sure to change your perspective about forests.",
+      "descriptionHtml": "'Story of Forests' is a vital lesson on the importance of forests in our life, retold through the stories of 'Arro', a colorful parrot of the Amazon , the spirit of the Temperate Forests, and 'Teera', the tiger from Sunderbans. It ends with a special story of the city forests. This book is sure to change your perspective about forests.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/11678842782007",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "349.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/4_StoryofForests_Cover.jpg?v=1707901763",
+        "altText": null,
+        "width": 769,
+        "height": 946
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:46Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/4_StoryofForests_Cover.jpg?v=1707901763",
+          "altText": "Story of Forests - 4_StoryofForests_Cover",
+          "width": 769,
+          "height": 946
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48110489338167",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "299.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9224142553399",
+      "handle": "chocolate",
+      "availableForSale": true,
+      "title": "Chocolate",
+      "description": "'Chocolate' takes you on the journey of 'Horado' a MesoAmerican native who tells you the story of his culture and that of cocoa beans. It then moves on to the sweeping story of 'Akunna', an African who shares his life across two continents and how he achieves freedom finally. On the way, you will discover the history of sugar as it travels across continents. Finally, you will be treated to the story of Gluci, the glucose molecule, it's relation to sugar and it's importance to our body. This book provides stories that you will always be able to relate to when you see chocolate the next time.",
+      "descriptionHtml": "'Chocolate' takes you on the journey of 'Horado' a MesoAmerican native who tells you the story of his culture and that of cocoa beans. It then moves on to the sweeping story of 'Akunna', an African who shares his life across two continents and how he achieves freedom finally. On the way, you will discover the history of sugar as it travels across continents. Finally, you will be treated to the story of Gluci, the glucose molecule, it's relation to sugar and it's importance to our body. This book provides stories that you will always be able to relate to when you see chocolate the next time.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/11678846157111",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "349.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/5_Chocolate_Cover.jpg?v=1707901862",
+        "altText": null,
+        "width": 2550,
+        "height": 3300
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:46Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/5_Chocolate_Cover.jpg?v=1707901862",
+          "altText": "Chocolate - 5_Chocolate_Cover",
+          "width": 2550,
+          "height": 3300
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48110494712119",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "299.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9224144257335",
+      "handle": "rome-or-greece",
+      "availableForSale": true,
+      "title": "Rome or Greece?",
+      "description": "'Rome or Greece?' takes on the Roman and Greek civilizations from an ordinary man's perspective. The scene starts with a verbal duel between a Greek and Roman; and as they narrate their stories, you will hear about the greats like Socrates, Alexander and Cicero. See if you can decide for yourself which one was the greater?",
+      "descriptionHtml": "'Rome or Greece?' takes on the Roman and Greek civilizations from an ordinary man's perspective. The scene starts with a verbal duel between a Greek and Roman; and as they narrate their stories, you will hear about the greats like Socrates, Alexander and Cicero. See if you can decide for yourself which one was the greater?",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/11678848385335",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "349.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/6_RomeOrGreece_Cover.jpg?v=1707901938",
+        "altText": null,
+        "width": 733,
+        "height": 951
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-18T03:34:05Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/6_RomeOrGreece_Cover.jpg?v=1707901938",
+          "altText": "Rome or Greece? - 6_RomeOrGreece_Cover",
+          "width": 733,
+          "height": 951
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48110500938039",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "299.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9224145568055",
+      "handle": "rise-of-a-car",
+      "availableForSale": true,
+      "title": "Rise of a Car",
+      "description": "Have you ever wondered what goes into making a car? Here you will find Jeev going on the same trip trying to build a new car on his own, as he is helped by Sscito. Along the way, you will learn many scientific principles from the ground up, meet legendary inventors and businessmen like Karl Benz and Henry Ford, and discover something new about racing cars!",
+      "descriptionHtml": "Have you ever wondered what goes into making a car? Here you will find Jeev going on the same trip trying to build a new car on his own, as he is helped by Sscito. Along the way, you will learn many scientific principles from the ground up, meet legendary inventors and businessmen like Karl Benz and Henry Ford, and discover something new about racing cars!",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/11678849827127",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "349.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/7_RiseofaCar_Cover.jpg?v=1707902012",
+        "altText": null,
+        "width": 1236,
+        "height": 1600
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:47Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/7_RiseofaCar_Cover.jpg?v=1707902012",
+          "altText": "Rise of a Car - 7_RiseofaCar_Cover",
+          "width": 1236,
+          "height": 1600
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48110507098423",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "299.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9224147566903",
+      "handle": "the-puzzle-of-progress",
+      "availableForSale": true,
+      "title": "The Puzzle of Progress",
+      "description": "Are you puzzled by economics and what is the basis of economic decisions taken by a country? Come on this new adventure with Jeev as he goes back in time to the Victorian England and Russia and discovers the philosophies of Karl Marx and Communists. Don't miss his rendezvous with Adam Smith and the surprising story of a modern Indian city!",
+      "descriptionHtml": "Are you puzzled by economics and what is the basis of economic decisions taken by a country? Come on this new adventure with Jeev as he goes back in time to the Victorian England and Russia and discovers the philosophies of Karl Marx and Communists. Don't miss his rendezvous with Adam Smith and the surprising story of a modern Indian city!",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/11678852677943",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "349.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/8_ThePuzzleOfProgress_Cover.jpg?v=1707902088",
+        "altText": null,
+        "width": 732,
+        "height": 951
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:47Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/8_ThePuzzleOfProgress_Cover.jpg?v=1707902088",
+          "altText": "The Puzzle of Progress - 8_ThePuzzleOfProgress_Cover",
+          "width": 732,
+          "height": 951
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48110509261111",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "299.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9224154284343",
+      "handle": "idea-of-a-nation",
+      "availableForSale": true,
+      "title": "Idea of a Nation",
+      "description": "'Idea of a Nation' will pose difficult questions about our identity, and what makes us call ourselves the citizen of any nation. As it discovers the initial surge of nationalism in the 18th century, you will hear from the likes of Voltaire and Rousseau and a common man in France. This book will make you think critically about nationalism and related topics.",
+      "descriptionHtml": "'Idea of a Nation' will pose difficult questions about our identity, and what makes us call ourselves the citizen of any nation. As it discovers the initial surge of nationalism in the 18th century, you will hear from the likes of Voltaire and Rousseau and a common man in France. This book will make you think critically about nationalism and related topics.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/11678860935479",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "349.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/9_IdeaOfANation_Cover.jpg?v=1707902374",
+        "altText": null,
+        "width": 673,
+        "height": 948
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:47Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/9_IdeaOfANation_Cover.jpg?v=1707902374",
+          "altText": "Idea of a Nation - 9_IdeaOfANation_Cover",
+          "width": 673,
+          "height": 948
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48110517911863",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "299.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9224161394999",
+      "handle": "a-race-through-the-stars",
+      "availableForSale": true,
+      "title": "A Race through the Stars",
+      "description": "If you have ever wondered about what goes on inside those tiny stars in the sky, this book is going to unravel it all for you. As you explore the stories of 3 unlikely characters in Buzzy, Shiny and Blacky, you will come to know the strange and fantastic ways of how stars live their lives and their relation to this Earth.",
+      "descriptionHtml": "If you have ever wondered about what goes on inside those tiny stars in the sky, this book is going to unravel it all for you. As you explore the stories of 3 unlikely characters in Buzzy, Shiny and Blacky, you will come to know the strange and fantastic ways of how stars live their lives and their relation to this Earth.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12083892027703",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "299.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "349.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/10_RaceThroughTheStars_Cover.jpg?v=1707902596",
+        "altText": null,
+        "width": 728,
+        "height": 949
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:47Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/10_RaceThroughTheStars_Cover.jpg?v=1707902596",
+          "altText": "A Race through the Stars - 10_RaceThroughTheStars_Cover",
+          "width": 728,
+          "height": 949
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48918580625719",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "299.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9558349381943",
+      "handle": "chocolate-ebook",
+      "availableForSale": true,
+      "title": "Chocolate - EBook",
+      "description": "'Chocolate' takes you on the journey of 'Horado' a MesoAmerican native who tells you the story of his culture and that of cocoa beans. It then moves on to the sweeping story of 'Akunna', an African who shares his life across two continents and how he achieves freedom finally. On the way, you will discover the history of sugar as it travels across continents. Finally, you will be treated to the story of Gluci, the glucose molecule, it's relation to sugar and it's importance to our body. This book provides stories that you will always be able to relate to when you see chocolate the next time.",
+      "descriptionHtml": "'Chocolate' takes you on the journey of 'Horado' a MesoAmerican native who tells you the story of his culture and that of cocoa beans. It then moves on to the sweeping story of 'Akunna', an African who shares his life across two continents and how he achieves freedom finally. On the way, you will discover the history of sugar as it travels across continents. Finally, you will be treated to the story of Gluci, the glucose molecule, it's relation to sugar and it's importance to our body. This book provides stories that you will always be able to relate to when you see chocolate the next time.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12108100108599",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/5_Chocolate_Cover_7b6601bd-802a-4e43-97fc-7bdf754272b5.jpg?v=1715774941",
+        "altText": null,
+        "width": 2550,
+        "height": 3300
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:47Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/5_Chocolate_Cover_7b6601bd-802a-4e43-97fc-7bdf754272b5.jpg?v=1715774941",
+          "altText": "Chocolate - EBook - 5_Chocolate_Cover_7b6601bd-802a-4e43-97fc-7bdf754272b5",
+          "width": 2550,
+          "height": 3300
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48960417169719",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "99.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9558356099383",
+      "handle": "ice-and-fire-ebook",
+      "availableForSale": true,
+      "title": "Ice and Fire- EBook",
+      "description": "'Ice and Fire' takes you on the voyage of snow, ice and glaciers and the unique world of Inuits and Nenets living in the coldest regions of the world. Then it takes a u-turn and talks about the fire present inside of the earth which shows up as volcanoes and earthquakes. It will be a voyage worth remembering.",
+      "descriptionHtml": "'Ice and Fire' takes you on the voyage of snow, ice and glaciers and the unique world of Inuits and Nenets living in the coldest regions of the world. Then it takes a u-turn and talks about the fire present inside of the earth which shows up as volcanoes and earthquakes. It will be a voyage worth remembering.<br data-mce-fragment=\"1\">",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12108109676855",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/2_IceAndFire_Cover_57b7b5e9-d854-4512-adae-adee54dc4016.jpg?v=1715775209",
+        "altText": null,
+        "width": 650,
+        "height": 926
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-19T05:56:55Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/2_IceAndFire_Cover_57b7b5e9-d854-4512-adae-adee54dc4016.jpg?v=1715775209",
+          "altText": "Ice and Fire- EBook - 2_IceAndFire_Cover_57b7b5e9-d854-4512-adae-adee54dc4016",
+          "width": 650,
+          "height": 926
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48960430473527",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "99.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9558361506103",
+      "handle": "idea-of-a-nation-ebook",
+      "availableForSale": true,
+      "title": "Idea of a Nation- EBook",
+      "description": "'Idea of a Nation' will pose difficult questions about our identity, and what makes us call ourselves the citizen of any nation. As it discovers the initial surge of nationalism in the 18th century, you will hear from the likes of Voltaire and Rousseau and a common man in France. This book will make you think critically about nationalism and related topics.",
+      "descriptionHtml": "'Idea of a Nation' will pose difficult questions about our identity, and what makes us call ourselves the citizen of any nation. As it discovers the initial surge of nationalism in the 18th century, you will hear from the likes of Voltaire and Rousseau and a common man in France. This book will make you think critically about nationalism and related topics.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12108116721975",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/9_IdeaOfANation_Cover_e57e309a-59db-4779-be15-244f6057662f.jpg?v=1715775388",
+        "altText": null,
+        "width": 673,
+        "height": 948
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-02-09T01:41:16Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/9_IdeaOfANation_Cover_e57e309a-59db-4779-be15-244f6057662f.jpg?v=1715775388",
+          "altText": "Idea of a Nation- EBook - 9_IdeaOfANation_Cover_e57e309a-59db-4779-be15-244f6057662f",
+          "width": 673,
+          "height": 948
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48960437322039",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "99.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9558366978359",
+      "handle": "rain-deserts-ebook",
+      "availableForSale": true,
+      "title": "Rain & Deserts- EBook",
+      "description": "'Rain & Deserts' deals with the issue of desertification we are seeing in the world today, and the related concept of rain. It talks about Rain from a new angle, and shows the power of wind. It also tells the unique stories of two very different deserts. This book will open up the reader's mind to the beauty of deserts and the interplay between green land and deserts.",
+      "descriptionHtml": "'Rain &amp; Deserts' deals with the issue of desertification we are seeing in the world today, and the related concept of rain. It talks about Rain from a new angle, and shows the power of wind. It also tells the unique stories of two very different deserts. This book will open up the reader's mind to the beauty of deserts and the interplay between green land and deserts.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12108125569335",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/3_DesertsandRain_Cover_9cb6efa5-2ccc-4d47-b6e2-0cb242ccc367.jpg?v=1715775523",
+        "altText": null,
+        "width": 2550,
+        "height": 3300
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:47Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/3_DesertsandRain_Cover_9cb6efa5-2ccc-4d47-b6e2-0cb242ccc367.jpg?v=1715775523",
+          "altText": "Rain & Deserts- EBook - 3_DesertsandRain_Cover_9cb6efa5-2ccc-4d47-b6e2-0cb242ccc367",
+          "width": 2550,
+          "height": 3300
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48960446169399",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "99.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9558372614455",
+      "handle": "rise-of-a-car-ebook",
+      "availableForSale": true,
+      "title": "Rise of a Car- EBook",
+      "description": "Have you ever wondered what goes into making a car? Here you will find Jeev going on the same trip trying to build a new car on his own, as he is helped by Sscito. Along the way, you will learn many scientific principles from the ground up, meet legendary inventors and businessmen like Karl Benz and Henry Ford, and discover something new about racing cars!",
+      "descriptionHtml": "Have you ever wondered what goes into making a car? Here you will find Jeev going on the same trip trying to build a new car on his own, as he is helped by Sscito. Along the way, you will learn many scientific principles from the ground up, meet legendary inventors and businessmen like Karl Benz and Henry Ford, and discover something new about racing cars!",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12108133335351",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/7_RiseofaCar_Cover_2930fb11-4029-48ec-9909-3ddf3b0efe39.jpg?v=1715775715",
+        "altText": null,
+        "width": 1236,
+        "height": 1600
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:48Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/7_RiseofaCar_Cover_2930fb11-4029-48ec-9909-3ddf3b0efe39.jpg?v=1715775715",
+          "altText": "Rise of a Car- EBook - 7_RiseofaCar_Cover_2930fb11-4029-48ec-9909-3ddf3b0efe39",
+          "width": 1236,
+          "height": 1600
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48960454983991",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "99.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9558378840375",
+      "handle": "rome-or-greece-ebook",
+      "availableForSale": true,
+      "title": "Rome or Greece? - EBook",
+      "description": "'Rome or Greece?' takes on the Roman and Greek civilizations from an ordinary man's perspective. The scene starts with a verbal duel between a Greek and Roman; and as they narrate their stories, you will hear about the greats like Socrates, Alexander and Cicero. See if you can decide for yourself which one was the greater?",
+      "descriptionHtml": "'Rome or Greece?' takes on the Roman and Greek civilizations from an ordinary man's perspective. The scene starts with a verbal duel between a Greek and Roman; and as they narrate their stories, you will hear about the greats like Socrates, Alexander and Cicero. See if you can decide for yourself which one was the greater?",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12108141494583",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/6_RomeOrGreece_Cover_98ac0e52-e9ec-4f4e-abd6-0df9a4db9e88.jpg?v=1715775899",
+        "altText": null,
+        "width": 733,
+        "height": 951
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-23T10:29:40Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/6_RomeOrGreece_Cover_98ac0e52-e9ec-4f4e-abd6-0df9a4db9e88.jpg?v=1715775899",
+          "altText": "Rome or Greece? - EBook - 6_RomeOrGreece_Cover_98ac0e52-e9ec-4f4e-abd6-0df9a4db9e88",
+          "width": 733,
+          "height": 951
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48960464027959",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "99.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9558385131831",
+      "handle": "story-of-forests-ebook",
+      "availableForSale": true,
+      "title": "Story of Forests- EBook",
+      "description": "'Story of Forests' is a vital lesson on the importance of forests in our life, retold through the stories of 'Arro', a colorful parrot of the Amazon , the spirit of the Temperate Forests, and 'Teera', the tiger from Sunderbans. It ends with a special story of the city forests. This book is sure to change your perspective about forests.",
+      "descriptionHtml": "'Story of Forests' is a vital lesson on the importance of forests in our life, retold through the stories of 'Arro', a colorful parrot of the Amazon , the spirit of the Temperate Forests, and 'Teera', the tiger from Sunderbans. It ends with a special story of the city forests. This book is sure to change your perspective about forests.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12108150014263",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/4_StoryofForests_Cover_a26c644a-0b77-497a-bdbe-175870a555e6.jpg?v=1715776133",
+        "altText": null,
+        "width": 769,
+        "height": 946
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-02-13T01:02:58Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/4_StoryofForests_Cover_a26c644a-0b77-497a-bdbe-175870a555e6.jpg?v=1715776133",
+          "altText": "Story of Forests- EBook - 4_StoryofForests_Cover_a26c644a-0b77-497a-bdbe-175870a555e6",
+          "width": 769,
+          "height": 946
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48960478609719",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "99.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9558387687735",
+      "handle": "the-food-we-grow-ebook",
+      "availableForSale": true,
+      "title": "The Food We Grow- EBook",
+      "description": "'The Food We Grow' takes you on the story of wheat and how it's grown in different parts of the world, and a glimpse into the history of those parts of the world. It also will inform and educate about the current issues we face in relation to food.",
+      "descriptionHtml": "'The Food We Grow' takes you on the story of wheat and how it's grown in different parts of the world, and a glimpse into the history of those parts of the world. It also will inform and educate about the current issues we face in relation to food.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12108153291063",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/1_TheFoodWeGrow_Cover_7a18695c-2568-4239-8112-6b74d6c337a3.jpg?v=1715776251",
+        "altText": null,
+        "width": 622,
+        "height": 911
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-15T08:25:30Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/1_TheFoodWeGrow_Cover_7a18695c-2568-4239-8112-6b74d6c337a3.jpg?v=1715776251",
+          "altText": "The Food We Grow- EBook - 1_TheFoodWeGrow_Cover_7a18695c-2568-4239-8112-6b74d6c337a3",
+          "width": 622,
+          "height": 911
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48960484999479",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "99.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9558392078647",
+      "handle": "the-puzzle-of-progress-ebook",
+      "availableForSale": true,
+      "title": "The Puzzle of Progress- EBook",
+      "description": "Are you puzzled by economics and what is the basis of economic decisions taken by a country? Come on this new adventure with Jeev as he goes back in time to the Victorian England and Russia and discovers the philosophies of Karl Marx and Communists. Don't miss his rendezvous with Adam Smith and the surprising story of a modern Indian city!",
+      "descriptionHtml": "Are you puzzled by economics and what is the basis of economic decisions taken by a country? Come on this new adventure with Jeev as he goes back in time to the Victorian England and Russia and discovers the philosophies of Karl Marx and Communists. Don't miss his rendezvous with Adam Smith and the surprising story of a modern Indian city!",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12108159189303",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/8_ThePuzzleOfProgress_Cover_bbbcb0a9-177c-4bde-8a47-53999f5776e6.jpg?v=1715776382",
+        "altText": null,
+        "width": 732,
+        "height": 951
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-01-13T21:28:48Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/8_ThePuzzleOfProgress_Cover_bbbcb0a9-177c-4bde-8a47-53999f5776e6.jpg?v=1715776382",
+          "altText": "The Puzzle of Progress- EBook - 8_ThePuzzleOfProgress_Cover_bbbcb0a9-177c-4bde-8a47-53999f5776e6",
+          "width": 732,
+          "height": 951
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/48960491749687",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "99.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9633997422903",
+      "handle": "storydarpan-coins",
+      "availableForSale": true,
+      "title": "StoryDarpan Coins",
+      "description": "You can buy StoryDarpan Coins in multiples of 100. With SD Coins, you can take multiple actions within the StoryDarpan platform, including creating new Story Books and hosting them so that others can buy them. Each action has either a fixed set of coins needed or variable coins depending on your action. You can read more about the SD Coins usage in our FAQ section.",
+      "descriptionHtml": "<p>You can buy StoryDarpan Coins in multiples of 100. With SD Coins, you can take multiple actions within the StoryDarpan platform, including creating new Story Books and hosting them so that others can buy them. Each action has either a fixed set of coins needed or variable coins depending on your action. You can read more about the SD Coins usage in our FAQ section. </p>\n<!---->",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12206161166647",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "89.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "89.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/SDCoins.jpg?v=1717591876",
+        "altText": null,
+        "width": 940,
+        "height": 788
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-02-08T05:16:31Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/SDCoins.jpg?v=1717591876",
+          "altText": "StoryDarpan Coins - SDCoins",
+          "width": 940,
+          "height": 788
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/49134443528503",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "89.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/9650624037175",
+      "handle": "a-race-through-the-stars-ebook",
+      "availableForSale": true,
+      "title": "A Race through the Stars- EBook",
+      "description": "If you have ever wondered about what goes on inside those tiny stars in the sky, this book is going to unravel it all for you. As you explore the stories of 3 unlikely characters in Buzzy, Shiny and Blacky, you will come to know the strange and fantastic ways of how stars live their lives and their relation to this Earth.",
+      "descriptionHtml": "If you have ever wondered about what goes on inside those tiny stars in the sky, this book is going to unravel it all for you. As you explore the stories of 3 unlikely characters in Buzzy, Shiny and Blacky, you will come to know the strange and fantastic ways of how stars live their lives and their relation to this Earth.",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12227365634359",
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        },
+        "minVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPriceRange": {
+        "maxVariantPrice": {
+          "amount": "99.0",
+          "currencyCode": "INR"
+        }
+      },
+      "featuredImage": {
+        "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/10_RaceThroughTheStars_Cover.jpg?v=1707902596",
+        "altText": null,
+        "width": 728,
+        "height": 949
+      },
+      "seo": {
+        "description": null,
+        "title": null
+      },
+      "tags": [],
+      "updatedAt": "2025-02-08T13:20:27Z",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0862/4006/7895/files/10_RaceThroughTheStars_Cover.jpg?v=1707902596",
+          "altText": "A Race through the Stars- EBook - 10_RaceThroughTheStars_Cover",
+          "width": 728,
+          "height": 949
+        }
+      ],
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/49172762853687",
+          "title": "Default Title",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Title",
+              "value": "Default Title"
+            }
+          ],
+          "price": {
+            "amount": "99.0",
+            "currencyCode": "INR"
+          }
+        }
+      ]
+    }
+  ]
